@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uwq-1
 - 👀 I’m interested in Software Development and Networking
-- 🌱 I’m currently learning Python, C++/C , Java ...
+- 🌱 I’m currently learning Python, C++/C , C#,  Java ...
 
 
 <!---
